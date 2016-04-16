@@ -1,0 +1,29 @@
+.button-group {
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.button-group > div {
+    display: inline-block;
+    margin: 0px auto;
+}
+
+.wrapper {
+    position: absolute;
+    height: 95%;
+}
+
+.wrapper canvas {
+    width: 100%;
+    height: 95%;
+}
+
+button {
+margin:2px !important;
+}
+
+#myCanvas {
+    border: 3px solid #888888;
+    height:100% !important;
+    margin-bottom:10px;
+}
